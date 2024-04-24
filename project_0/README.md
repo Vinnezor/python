@@ -45,7 +45,7 @@
 :arrow_up:[к оглавлению](https://github.com/Vinnezor/python/blob/develop/project_0/README.md#Оглавление)
 
 
-### Результаты:  
+### Результат:  
 Бинарный поиск работает очень быстро
 
 :arrow_up:[к оглавлению](https://github.com/Vinnezor/python/blob/develop/project_0/README.md#Оглавление)
